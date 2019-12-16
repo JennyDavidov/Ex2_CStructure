@@ -1,0 +1,3 @@
+/home/jenny/CLionProjects/Ex2_CStructure/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jenny/CLionProjects/Ex2_CStructure/cmake-build-debug/CMakeFiles/Ex2_CStructure.dir
+/home/jenny/CLionProjects/Ex2_CStructure/cmake-build-debug/CMakeFiles/edit_cache.dir

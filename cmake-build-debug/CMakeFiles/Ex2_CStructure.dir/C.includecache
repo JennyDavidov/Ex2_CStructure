@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jenny/CLionProjects/Ex2_CStructure/kefel.c
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+
